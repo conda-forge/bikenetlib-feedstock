@@ -28,6 +28,7 @@ requirements:
     - matplotlib-base
     - osmnx >=2
     - geojson
+    - tqdm
 
 tests:
   - python:
