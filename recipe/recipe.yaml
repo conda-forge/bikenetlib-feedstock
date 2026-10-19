@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.12"
-  version: "0.7.1"
+  version: "0.7.2"
 
 package:
   name: bikenetlib
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://files.pythonhosted.org/packages/source/b/bikenetlib/bikenetlib-${{ version }}.tar.gz
-  sha256: 357aa256a3b7e9a87d7330e84ab3b20c1815de44894a66fbf3f8b0f169e6ed23
+  sha256: 3cd8cb65846c0f0af22686c4982b3afe22f09db08f01367dfb98dd63c7e8e02f
 
 build:
   number: 0
